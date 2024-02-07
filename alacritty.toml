@@ -1,0 +1,61 @@
+[font]
+size = 14.0
+
+[window]
+opacity = 1.0
+title = 'AraAratty'
+dynamic_title = false
+
+[window.padding]
+x = 42
+y = 42
+
+[window.dimensions]
+lines = 22
+columns = 68
+
+[cursor.style]
+shape = "underline"
+
+[font.normal]
+family = "Hack"
+# family = "azukifontB"
+
+[font.bold]
+family = "Hack"
+# family = "azukifontB"
+
+[font.italic]
+family = "Hack"
+# family = "azukifontB"
+
+[colors.cursor]
+text = "#dddddd"
+cursor = "#555566"
+
+[colors.primary]
+foreground = "#7777aa"
+background = "#f5f5ff"
+
+# foreground = "#eeeeff"
+# background = "#393042"
+
+[colors.normal]
+black   = "#ffccee"
+red     = "#eebbee"
+green   = "#bbbbff"
+yellow  = "#bbaaee"
+blue    = "#ffccee"
+magenta = "#eebbee"
+cyan    = "#bbbbff"
+white   = "#bbaaee"
+
+[colors.bright]
+black   = "#ffccee"
+red     = "#eebbee"
+green   = "#bbbbff"
+yellow  = "#bbaaee"
+blue    = "#ffccee"
+magenta = "#eebbee"
+cyan    = "#bbbbff"
+white   = "#bbaaee"
