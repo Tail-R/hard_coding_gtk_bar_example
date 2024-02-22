@@ -1,0 +1,24 @@
+[package]
+name = "cotton_candy"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+# regex = "1.10.3"
+
+# glib = "0.18.0"
+# gdk = "0.18.0"
+# gdk-pixbuf = "0.19.2"
+# gio = "0.18.4"
+
+gtk = "0.18.1"
+gtk-layer-shell = "0.8.0"
+
+async-channel = "1.9.0"
+futures = "0.3"
+
+regex = "1.8.1"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"

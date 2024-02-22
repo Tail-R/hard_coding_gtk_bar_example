@@ -1,0 +1,41 @@
+* {
+    all: unset;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: "Hack";
+}
+
+#mpris_custom_widget {
+    min-height: 40px;
+    
+    background-color: #fadee1;
+    border-radius: 20px;
+}
+
+#mpris_toggle_widget {
+    min-width: 32px;
+    
+    background-color: #ddddff;
+    border-radius: 16px;
+    margin: 4px;
+}
+
+#mpris_player_widget { 
+    background-color: #ddddff;
+    border-radius: 16px;
+    margin: 4px;
+}
+
+#l_box {
+    color: #7777aa;
+    background-color: #f5f5ff;
+}
+
+#r_box {
+    color: #7777aa;
+    background-color: #f5f5ff;
+}
+
+#main_box {
+    background: #f5f5ff;
+}
